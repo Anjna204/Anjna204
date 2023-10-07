@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjna204
 - 👀 I’m interested in software enginnering and web development
-- 🌱 I’m currently learning front end 
+- 🌱 I’m currently learning front end .
 .
 
 <!---
